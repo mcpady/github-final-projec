@@ -1,2 +1,2 @@
-# github-final-projec
+# github-final-project
 MC final github project
